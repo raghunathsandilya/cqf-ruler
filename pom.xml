@@ -66,15 +66,15 @@
 		<cql-evaluator.version>1.4.3-SNAPSHOT</cql-evaluator.version>
 
 		<!-- Dependency Versions -->
-		<fhir_core_version>5.3.11</fhir_core_version>
+		<fhir_core_version>5.6.36</fhir_core_version>
 		<flexmark_version>0.62.2</flexmark_version>
 		<hapi_jpastarter_version>image/v5.5.1</hapi_jpastarter_version>
-		<hapi_version>5.5.3</hapi_version>
+		<hapi_version>6.0.0-PRE5-SNAPSHOT</hapi_version>
 		<javax.version>8.0.1</javax.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<spring_boot_version>2.5.6</spring_boot_version>
-		<spring_version>5.3.12</spring_version>
+		<spring_boot_version>2.6.2</spring_boot_version>
+		<spring_version>5.3.15</spring_version>
 	</properties>
 
 	<dependencyManagement>

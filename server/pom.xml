@@ -20,6 +20,7 @@
 		</dependency>
 
 		<!-- Needed for Email subscriptions -->
+		<!--
 		<dependency>
 			<groupId>com.sun.mail</groupId>
 			<artifactId>javax.mail</artifactId>
@@ -30,7 +31,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-
+-->
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
@@ -214,6 +215,7 @@
 		<dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-testpage-overlay</artifactId>
+			<version>6.0.0-PRE5-SNAPSHOT</version>
 			<type>war</type>
 			<scope>provided</scope>
 		</dependency>
